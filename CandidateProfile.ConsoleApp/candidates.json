@@ -1,0 +1,74 @@
+[
+  {
+    "CandidateId": "123214",
+    "Fullname": "testing101",
+    "Birthday": "2024-10-18T11:39:00",
+    "ProfileShortDescription": "1Test123123",
+    "ProfileUrl": "https://123213",
+    "PostingId": "P0001",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0001",
+    "Fullname": "Alan Clinton",
+    "Birthday": "1990-09-01T00:00:00",
+    "ProfileShortDescription": "Excellent communication skills with a commitment to understanding customer requirements as well as business objectives.",
+    "ProfileUrl": "AlanClinton.PDF",
+    "PostingId": "P0002",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0002",
+    "Fullname": "Ethelbert Harron",
+    "Birthday": "1993-04-16T00:00:00",
+    "ProfileShortDescription": "Critical thinking skills and an analytical mind with strong problem-solving abilitiess.",
+    "ProfileUrl": "EthelbertHarron.PDF",
+    "PostingId": "P0002",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0003",
+    "Fullname": "Kenneth Paul",
+    "Birthday": "1980-09-24T00:00:00",
+    "ProfileShortDescription": "Highly experienced with various operating systems and databases",
+    "ProfileUrl": "KennethPaul.PDF",
+    "PostingId": "P0002",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0004",
+    "Fullname": "Michael Leonard",
+    "Birthday": "1995-12-30T00:00:00",
+    "ProfileShortDescription": "Proven ability to troubleshoot hardware, software, and network issues quickly and effectively.",
+    "ProfileUrl": "MichaelLeonard.PDF",
+    "PostingId": "P0002",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0005",
+    "Fullname": "William Peter",
+    "Birthday": "1991-06-28T00:00:00",
+    "ProfileShortDescription": "Problem solving skills to revise existing systems and suggest improvements.",
+    "ProfileUrl": "WilliamPeter.PDF",
+    "PostingId": "P0003",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0006",
+    "Fullname": "Edward David Clinton",
+    "Birthday": "1990-07-13T00:00:00",
+    "ProfileShortDescription": "Patience and ability to train users in both new and existing IT systems.",
+    "ProfileUrl": "EdwardDavidClinton.PDF",
+    "PostingId": "P0004",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0007",
+    "Fullname": "Harvey Louis",
+    "Birthday": "1990-09-01T00:00:00",
+    "ProfileShortDescription": "Enthusiastic about working collaboratively.",
+    "ProfileUrl": "Harvey Louis.PDF",
+    "PostingId": "P0005",
+    "Posting": null
+  }
+]

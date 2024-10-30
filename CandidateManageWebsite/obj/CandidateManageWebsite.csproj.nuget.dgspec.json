@@ -1,0 +1,398 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\CandidateManageWebsite\\CandidateManageWebsite.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\CandidateManageWebsite\\CandidateManageWebsite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\CandidateManageWebsite\\CandidateManageWebsite.csproj",
+        "projectName": "CandidateManageWebsite",
+        "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\CandidateManageWebsite\\CandidateManageWebsite.csproj",
+        "packagesPath": "C:\\Users\\thien.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\CandidateManageWebsite\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thien.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Services\\Candidate_Services.csproj": {
+                "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Services\\Candidate_Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_BussinessObj\\Candidate_BussinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_BussinessObj\\Candidate_BussinessObjects.csproj",
+        "projectName": "Candidate_BussinessObjects",
+        "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_BussinessObj\\Candidate_BussinessObjects.csproj",
+        "packagesPath": "C:\\Users\\thien.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_BussinessObj\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thien.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_DAO\\Candidate_DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_DAO\\Candidate_DAO.csproj",
+        "projectName": "Candidate_DAO",
+        "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_DAO\\Candidate_DAO.csproj",
+        "packagesPath": "C:\\Users\\thien.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_DAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thien.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_BussinessObj\\Candidate_BussinessObjects.csproj": {
+                "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_BussinessObj\\Candidate_BussinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Repositories\\Candidate_Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Repositories\\Candidate_Repositories.csproj",
+        "projectName": "Candidate_Repositories",
+        "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Repositories\\Candidate_Repositories.csproj",
+        "packagesPath": "C:\\Users\\thien.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thien.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_DAO\\Candidate_DAO.csproj": {
+                "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_DAO\\Candidate_DAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Services\\Candidate_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Services\\Candidate_Services.csproj",
+        "projectName": "Candidate_Services",
+        "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Services\\Candidate_Services.csproj",
+        "packagesPath": "C:\\Users\\thien.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thien.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Repositories\\Candidate_Repositories.csproj": {
+                "projectPath": "C:\\Users\\thien.phan\\source\\repos\\PRN221PE_FA22_TrialTest_PhanTranBaoThien\\Candidate_Repositories\\Candidate_Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
